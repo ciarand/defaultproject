@@ -1,3 +1,5 @@
+This project is deprecated and unmaintained. Proceed with caution!
+
 Default Project [![Build Status](https://drone.io/github.com/elcct/defaultproject/status.png)](https://drone.io/github.com/elcct/defaultproject/latest)
 ===============
 
